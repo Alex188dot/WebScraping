@@ -25,6 +25,6 @@ This program scrapes the links of Nintendo Switch ads from the page https://www.
 
 ## Usage
 
-- Run the program as `python switch_links_scraper.py`
+- Run the program as `python WebScrapingSwitch.py`
 - The program will print the current links and store them in switch_links.txt
 - The program will also open the new links in the browser automatically, except for the first time
