@@ -2,7 +2,6 @@ import bs4
 import requests
 import webbrowser
 from pprint import pprint
-from urllib.parse import urljoin
 
 MAIN_URL = "https://www.subito.it/annunci-lazio/vendita/usato/roma/roma/?q=nintendo%20switch"
 FILE_NAME = "switch_links.txt"  # name of the file to store the results
