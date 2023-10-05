@@ -19,7 +19,9 @@ This program scrapes the links of Nintendo Switch ads from the page https://www.
 - It checks if there are any new links. If there are, it opens them in the browser automatically, unless it is the first time the program runs. If there are no new links, it prints the message "No new links...".
 - Below a demo of how the switch_links.txt file is structured: on the first run all the link will be inserted under new_links and will not be opened automatically. On the subsequent runs, all the links that were not there before, will be placed automatically under new_links (and the other ones under old_links) and the browser will open them automatically:
 
-<img width="753" alt="txt file" src="https://github.com/Alex188dot/WebScraping/assets/117444853/4010cdb0-1a4b-477e-84a4-d53c6eb61151">
+<p align="center">
+  <img width="753" alt="txt file" src="https://github.com/Alex188dot/WebScraping/assets/117444853/4010cdb0-1a4b-477e-84a4-d53c6eb61151">
+</p>
 
 ## Requirements
 
